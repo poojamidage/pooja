@@ -1,5 +1,4 @@
 # pooja
-Hello world, this is my profile
 👋 Hi, I'm Pooja Midage
 
 📊 Aspiring Data Analyst | SQL | Power BI | Excel | Python | Statistics
